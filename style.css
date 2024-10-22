@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(104, 177, 20);
+    color: white;
+   font-family: "Arima", serif;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 700px;
+   margin: 0px;
+}
+button{
+    background-color:rgb(206, 240, 12);
+    color: black;
+    font-family: "Arima", serif;   
+}
+.passo{ 
+    display: none;
+}
+.passo.ativo{
+    display:block;
+}
